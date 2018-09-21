@@ -1,0 +1,38 @@
+_repo: Ciondolino-German_53973
+_version: 0.0.1
+alternative_title: Ciondolino. German
+contributor:
+  illustrator:
+    agent_name: Elleder, Karl
+    birthdate: &id001 1860
+    deathdate: 1941
+    gutenberg_agent_id: '47645'
+    url: http://www.gutenberg.org/2009/agents/47645
+  translator:
+    agent_name: Koch, Luise von
+    alias: Von Koch, Luise
+    gutenberg_agent_id: '47646'
+    url: http://www.gutenberg.org/2009/agents/47646
+creator:
+  author:
+    agent_name: Vamba
+    alias: Bertelli, Luigi
+    birthdate: *id001
+    deathdate: 1920
+    gutenberg_agent_id: '47644'
+    url: http://www.gutenberg.org/2009/agents/47644
+description: ''
+gutenberg_issued: '2017-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53973'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ants'
+- !lcc 'QL'
+- GITenberg
+title: 'Max Butziwackel der Ameisenkaiser: Ein Buch für Kinder und große Leute'
+url: http://www.gutenberg.org/ebooks/53973
