@@ -1,10 +1,10 @@
 _repo: Ciondolino-German_53973
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Ciondolino. German
 contributor:
   illustrator:
     agent_name: Elleder, Karl
-    birthdate: &id001 1860
+    birthdate: 1860
     deathdate: 1941
     gutenberg_agent_id: '47645'
     url: http://www.gutenberg.org/2009/agents/47645
@@ -13,15 +13,20 @@ contributor:
     alias: Von Koch, Luise
     gutenberg_agent_id: '47646'
     url: http://www.gutenberg.org/2009/agents/47646
+covers:
+- cover_type: archival
+  image_path: 53973-h/images/cover.jpg
 creator:
   author:
     agent_name: Vamba
     alias: Bertelli, Luigi
-    birthdate: *id001
+    birthdate: 1860
     deathdate: 1920
     gutenberg_agent_id: '47644'
     url: http://www.gutenberg.org/2009/agents/47644
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53973#Ciondolino-German
 gutenberg_issued: '2017-01-16'
 gutenberg_type: Text
 identifiers:
